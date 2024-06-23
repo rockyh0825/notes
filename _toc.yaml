@@ -4,10 +4,10 @@ parts:
   - caption: Research
     chapters: 
       - caption: test
-        file: notes/research
+        file: notes/research/test
 parts:
   - caption: Study
     chapters: 
       - caption: test
-        file: notes/study
+        file: notes/study/test
   
