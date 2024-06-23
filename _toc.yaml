@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+parts: 
+  - caption: Research
+    chapters: 
+      - caption: test
+        file: notes/research
+parts:
+  - caption: Study
+    chapters: 
+      - caption: test
+        file: notes/study
+  
